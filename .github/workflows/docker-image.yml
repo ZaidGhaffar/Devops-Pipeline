@@ -21,6 +21,7 @@ jobs:
   build-docker-Image:
 
     runs-on: ubuntu-latest
+    needs: Installing-Dependencies
 
     steps:
     - uses: actions/checkout@v4
