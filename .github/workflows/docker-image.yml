@@ -1,4 +1,4 @@
-name: Setting-up CI/CD Pipeline for Docker Image
+name: Settingup CI/CD Pipeline for Docker Image
 
 on:
   push:
