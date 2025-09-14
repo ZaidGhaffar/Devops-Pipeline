@@ -8,7 +8,7 @@ on:
 
 jobs:
 
-  build a docker Image:
+  build-docker-Image:
 
     runs-on: ubuntu-latest
 
